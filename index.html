@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Memoir '44 Summary Cards</title>
+    <meta name="copyright" content="Fast Wombat, LLC">
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -19,15 +20,25 @@
     <style>
       body {
         padding-top: 70px;
+        background-image: url('camo.png');
+        background-repeat: repeat;
       }
 
       img.card {
         border-radius: 15px;
-        opacity: 0.50;
+        -webkit-filter: grayscale(100%);
+        -moz-filter: grayscale(100%);
+        filter: grayscale(100%);
       }
 
       img.selected {
-        opacity: 1.0;
+        filter: none;
+        -webkit-filter: none;
+        -moz--webkit-filter: none;
+      }
+
+      .navbar {
+        background: darkgreen;
       }
 
     </style>
@@ -36,12 +47,39 @@
 
   <body ng-controller="CardsController">
 
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <!-- <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <button ng-click="editing = ! editing">Edit</button>
         <button ng-click="selectAll()">Select All</button>
         <button ng-click="selectNone()">Select None</button>
       </div>
+    </nav> -->
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" ng-show="editing">
+          Card Sets <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#" ng-click="toggleSet(0)"><span class="glyphicon glyphicon-ok"></span> Base Game</a></li>
+          <li class="divider"></li>
+          <li><a href="#" ng-click="toggleSet(1)">Terrain Pack</a></li>
+          <li><a href="#" ng-click="toggleSet(2)">Eastern Front Pack</a></li>
+          <li><a href="#">Pacific Theater Pack</a></li>
+          <li><a href="#">Air Pack</a></li>
+          <li><a href="#">Mediterranean Theater</a></li>
+          <li><a href="#">Battle Maps</a></li>
+          <li><a href="#">Campaign Book</a></li>
+          <li><a href="#">Winter Wars</a></li>
+        </ul>
+
+        <button type="button" class="btn btn-default navbar-btn" ng-click="toggleAll()" ng-show="editing">Toggle All</button>
+        <button type="button" class="btn btn-default navbar-btn navbar-right" ng-click="editing = !editing">
+          {{ editing ? "Done" : "Edit"}}
+        </button>
+
+      </div><!-- /.container-fluid -->
     </nav>
 
     <div id="container" class="container">
