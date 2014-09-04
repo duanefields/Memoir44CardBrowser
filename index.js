@@ -9,7 +9,7 @@ angular.module('cardsApp', [])
         //src: "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_" + i +".jpg",
         number: i,
         src: "http://static.daysofwonder.com/memoir44/en/img/mm_compendium_terrain_" + i + ".jpg",
-        selected: i%2 == 0
+        selected: i <= 15
       };
       $scope.cards.push(card)
     }
@@ -19,7 +19,7 @@ angular.module('cardsApp', [])
       card = {
         number: i,
         src: "http://static.daysofwonder.com/memoir44/en/img/mm_compendium_troop_" + i + ".jpg",
-        selected: true
+        selected: false
       };
       $scope.cards.push(card)
     }
@@ -29,7 +29,7 @@ angular.module('cardsApp', [])
       card = {
         number: i,
         src: "http://static.daysofwonder.com/memoir44/en/img/mm_compendium_swa_" + i + ".jpg",
-        selected: true
+        selected: false
       };
       $scope.cards.push(card)
     }
