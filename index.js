@@ -1,7 +1,7 @@
 angular.module('cardsApp', [])
   .controller('CardsController', ['$scope', function($scope) {
     $scope.cards = new Array();
-    $scope.showAllCards = true;
+    $scope.editing = true;
 
     // terrain cards
     for (i=1; i <= 67; i++) {
