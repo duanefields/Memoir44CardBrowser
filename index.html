@@ -83,18 +83,18 @@
           <li><a href="#">Winter Wars</a></li>
         </ul>
 
-        <button type="button" class="btn btn-default navbar-btn" ng-click="toggleAll()" ng-show="editing">Toggle All</button>
-        <button type="button" class="btn btn-default navbar-btn navbar-right" ng-click="editing = !editing">
+        <button type="button" class="btn btn-default navbar-btn" onClick="this.blur()" ng-click="toggleAll()" ng-show="editing">Toggle All</button>
+        <button type="button" class="btn btn-default navbar-btn navbar-right" onClick="this.blur()" ng-click="editing = !editing">
           {{ editing ? "Done" : "Edit"}}
         </button>
 
-      </div><!-- /.container-fluid -->
+      </div>
     </nav>
 
     <div id="container" class="container">
       <div ng-repeat="card in cards">
         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12" ng-show="card.selected || editing">
-          <img class="card img-responsive" ng-click="toggle(card)" ng-class="{'selected': card.selected}" ng-src="{{card.src}}" alt="" width="255" height="165">
+          <img class="card img-responsive" ng-click="onCardTap(card)" ng-class="{'selected': card.selected}" ng-src="{{card.src}}" alt="" width="255" height="165">
         </div>
       </div>
     </div>

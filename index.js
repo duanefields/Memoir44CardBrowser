@@ -14,11 +14,35 @@ angular.module('cardsApp', [])
       $scope.cards.push(card)
     }
 
+    // action cards
+    for (i=1; i <= 31; i++) {
+      if (i == 28 || i == 29 || i ==30) {
+        continue;
+      }
+      card = {
+        number: i,
+        src: "http://static.daysofwonder.com/memoir44/en/img/mm_compendium_action_" + i + ".jpg",
+        selected: false
+      };
+      $scope.cards.push(card)
+    }
+
     // troop cards
     for (i=1; i <= 26; i++) {
       card = {
         number: i,
         src: "http://static.daysofwonder.com/memoir44/en/img/mm_compendium_troop_" + i + ".jpg",
+        selected: false
+      };
+      $scope.cards.push(card)
+    }
+
+
+    // nation cards
+    for (i=1; i <= 7; i++) {
+      card = {
+        number: i,
+        src: "http://static.daysofwonder.com/memoir44/en/img/mm_compendium_nation_" + i + ".jpg",
         selected: false
       };
       $scope.cards.push(card)
@@ -34,8 +58,10 @@ angular.module('cardsApp', [])
       $scope.cards.push(card)
     }
 
-    $scope.toggle = function(card) {
-      card.selected = ! card.selected;
+    $scope.onCardTap = function(card) {
+      if ($scope.editing) {
+        card.selected = ! card.selected;
+      }
     };
 
     $scope.setAll = function(selected) {
