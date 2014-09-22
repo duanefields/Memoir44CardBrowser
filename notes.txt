@@ -1,0 +1,5 @@
+http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_cards
+
+https://developer.yahoo.com/yql/
+
+select * from html where url='http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_cards' and xpath='//a[starts-with(@href, "/memoir44/en/content/cards_compendium/?id=terrain")]'
