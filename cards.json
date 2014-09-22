@@ -5,271 +5,338 @@
   "cards": [
    {
     "name": "Beaches",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_1.jpg"
    },
    {
     "name": "Bunkers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_2.jpg"
    },
    {
     "name": "Forests",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_3.jpg"
    },
    {
     "name": "Hedgerows",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_4.jpg"
    },
    {
     "name": "Hedgehogs",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_5",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_5.jpg"
    },
    {
     "name": "Hills",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_6",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_6.jpg"
    },
    {
     "name": "Oceans",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_7",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_7.jpg"
    },
    {
     "name": "Rivers & Waterways",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_8",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_8.jpg"
    },
    {
     "name": "Bridges",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_9"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_9",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_9.jpg"
    },
    {
     "name": "Sandbags",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_10"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_10",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_10.jpg"
    },
    {
     "name": "Cliffs & Sea Bluffs",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_11"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_11",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_11.jpg"
    },
    {
     "name": "Sea Wall",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_12"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_12",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_12.jpg"
    },
    {
     "name": "Steep Hills",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_13"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_13",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_13.jpg"
    },
    {
     "name": "Towns & Villages",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_14"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_14",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_14.jpg"
    },
    {
     "name": "Wire",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_15"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_15",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_15.jpg"
    },
    {
     "name": "Airfields",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_16"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_16",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_16.jpg"
    },
    {
     "name": "Barracks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_17"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_17",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_17.jpg"
    },
    {
     "name": "Cemeteries",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_18"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_18",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_18.jpg"
    },
    {
     "name": "Churches",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_19"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_19",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_19.jpg"
    },
    {
     "name": "Dams",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_20"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_20",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_20.jpg"
    },
    {
     "name": "Factory Complex",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_21"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_21",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_21.jpg"
    },
    {
     "name": "Field Bunkers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_22"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_22",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_22.jpg"
    },
    {
     "name": "Flooded Fields",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_23"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_23",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_23.jpg"
    },
    {
     "name": "Fortresses",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_24"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_24",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_24.jpg"
    },
    {
     "name": "High Ground",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_25"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_25",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_25.jpg"
    },
    {
     "name": "Lake",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_26"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_26",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_26.jpg"
    },
    {
     "name": "Lighthouses",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_27"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_27",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_27.jpg"
    },
    {
     "name": "Marshes",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_28"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_28",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_28.jpg"
    },
    {
     "name": "Minefields",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_29"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_29",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_29.jpg"
    },
    {
     "name": "Mountains",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_30"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_30",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_30.jpg"
    },
    {
     "name": "Oasis",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_31"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_31",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_31.jpg"
    },
    {
     "name": "Palm Forests",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_32"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_32",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_32.jpg"
    },
    {
     "name": "Pontoon Bridges",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_33"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_33",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_33.jpg"
    },
    {
     "name": "Power Plants",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_34"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_34",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_34.jpg"
    },
    {
     "name": "Prison Camps",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_35"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_35",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_35.jpg"
    },
    {
     "name": "Radar Stations",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_36"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_36",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_36.jpg"
    },
    {
     "name": "Railroad Bridges",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_37"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_37",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_37.jpg"
    },
    {
     "name": "Railroad Tracks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_38"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_38",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_38.jpg"
    },
    {
     "name": "Railroad Station",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_39"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_39",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_39.jpg"
    },
    {
     "name": "Road Blocks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_40"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_40",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_40.jpg"
    },
    {
     "name": "Fords & Fordable Rivers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_41"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_41",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_41.jpg"
    },
    {
     "name": "Roads",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_42"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_42",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_42.jpg"
    },
    {
     "name": "Supply Depots",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_43"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_43",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_43.jpg"
    },
    {
     "name": "Wadis & Gullies",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_44"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_44",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_44.jpg"
    },
    {
     "name": "City Ruins",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_45"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_45",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_45.jpg"
    },
    {
     "name": "Dragon's Teeth",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_46"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_46",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_46.jpg"
    },
    {
     "name": "Frozen Rivers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_47"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_47",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_47.jpg"
    },
    {
     "name": "Hills With Forests",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_48"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_48",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_48.jpg"
    },
    {
     "name": "Hills With Villages",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_49"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_49",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_49.jpg"
    },
    {
     "name": "Ravines",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_50"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_50",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_50.jpg"
    },
    {
     "name": "Trenches",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_51"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_51",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_51.jpg"
    },
    {
     "name": "Caves On Hills",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_52"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_52",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_52.jpg"
    },
    {
     "name": "Caves On Mountains",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_53"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_53",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_53.jpg"
    },
    {
     "name": "Fish Ponds",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_54"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_54",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_54.jpg"
    },
    {
     "name": "Hospitals",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_55"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_55",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_55.jpg"
    },
    {
     "name": "HQs & Supply Tents",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_56"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_56",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_56.jpg"
    },
    {
     "name": "Jungles",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_57"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_57",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_57.jpg"
    },
    {
     "name": "Labor Camps",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_58"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_58",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_58.jpg"
    },
    {
     "name": "Piers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_59"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_59",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_59.jpg"
    },
    {
     "name": "Rice Paddies",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_60"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_60",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_60.jpg"
    },
    {
     "name": "Fordable Streams",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_61"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_61",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_61.jpg"
    },
    {
     "name": "Rope Bridges",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_62"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain_62",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_62.jpg"
    },
    {
     "name": "Escarpments",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=escarpments"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=escarpments",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_63.jpg"
    },
    {
     "name": "Ergs & Ridges",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=ergs-ridges"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=ergs-ridges",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_64.jpg"
    },
    {
     "name": "Balkas",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=balkas"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=balkas",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_65.jpg"
    },
    {
     "name": "Abatis",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=ergs-ridges381"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=ergs-ridges381",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_terrain_66.jpg"
    },
    {
     "name": "Castle",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain-67"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=terrain-67",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_terrain_67.jpg"
    }
   ]
  },
@@ -279,111 +346,138 @@
   "cards": [
    {
     "name": "Reinforcements",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_1.jpg"
    },
    {
     "name": "Blowing Up Bridges",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_2.jpg"
    },
    {
     "name": "Air Strikes & Blitz",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_3.jpg"
    },
    {
     "name": "Forward Spotting",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_4.jpg"
    },
    {
     "name": "Collapsible Rafts & Boats",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_5",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_5.jpg"
    },
    {
     "name": "Sabotage",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_6",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_6.jpg"
    },
    {
     "name": "Freeing Prisoners",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_7",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_7.jpg"
    },
    {
     "name": "Heroic Leader",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_8",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_8.jpg"
    },
    {
     "name": "North African Desert Rules",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_9"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_9",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_9.jpg"
    },
    {
     "name": "Oasis Recovery",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_10"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_10",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_10.jpg"
    },
    {
     "name": "Radar Alert",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_11"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_11",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_11.jpg"
    },
    {
     "name": "Capturing Equipment",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_12"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_12",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_12.jpg"
    },
    {
     "name": "Supply Train/Reinforcements",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_13"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_13",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_13.jpg"
    },
    {
     "name": "Destroy Supplies",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_14"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_14",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_14.jpg"
    },
    {
     "name": "Blitz Rules",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_15"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_15",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_15.jpg"
    },
    {
     "name": "Camouflage",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_16"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_16",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_16.jpg"
    },
    {
     "name": "Capture HQ/supply Tent",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_17"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_17",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_17.jpg"
    },
    {
     "name": "Hospital Recovery",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_18"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_18",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_18.jpg"
    },
    {
     "name": "Night Attacks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_19.jpg"
    },
    {
     "name": "Paradrop",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_20.jpg"
    },
    {
     "name": "Smoke Screen",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375377"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375377",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_21.jpg"
    },
    {
     "name": "Armor Breakthrough",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375377378"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375377378",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_22.jpg"
    },
    {
     "name": "Exit Markers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-23"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-23",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_action_23.jpg"
    },
    {
     "name": "Re-supply",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=re-supply"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=re-supply",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_action_24.jpg"
    },
    {
     "name": "Combat Cards",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-25"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-25",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_action_25.jpg"
    },
    {
     "name": "Winter Weather",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-26"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-26",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_action_26.jpg"
    },
    {
     "name": "Reduced visibility",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-27"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-27",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_action_27.jpg"
    },
    {
     "name": "Action 28 - Not Available Yet",
@@ -399,7 +493,8 @@
    },
    {
     "name": "Smoke Shells",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-31"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action-31",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_action_31.jpg"
    }
   ]
  },
@@ -409,107 +504,133 @@
   "cards": [
    {
     "name": "Standard Units",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_1.jpg"
    },
    {
     "name": "Specialized Units",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_2.jpg"
    },
    {
     "name": "Big Guns",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_3.jpg"
    },
    {
     "name": "Combat Engineers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_4.jpg"
    },
    {
     "name": "Trains",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_5",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_5.jpg"
    },
    {
     "name": "Supply Trains",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_6",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_6.jpg"
    },
    {
     "name": "Armored Trains",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_7",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_7.jpg"
    },
    {
     "name": "Cavalry",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_8",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_8.jpg"
    },
    {
     "name": "Ski Troops",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_9"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_9",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_9.jpg"
    },
    {
     "name": "Snipers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_10"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_10",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_10.jpg"
    },
    {
     "name": "Aircraft Carriers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_11"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_11",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_11.jpg"
    },
    {
     "name": "Destroyers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_12"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_12",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_12.jpg"
    },
    {
     "name": "Flame Thrower Tanks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_13"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_13",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_13.jpg"
    },
    {
     "name": "Mobile Artillery",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_14"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_14",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_14.jpg"
    },
    {
     "name": "Landing Craft (LC)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_15"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_15",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_15.jpg"
    },
    {
     "name": "Tigers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17384"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17384",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_16.jpg"
    },
    {
     "name": "Supply Trucks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_17.jpg"
    },
    {
     "name": "Half-Tracks",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-18"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-18",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_18.jpg"
    },
    {
     "name": "Long-Range Patrol Cars",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-19"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-19",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_19.jpg"
    },
    {
     "name": "Command Cars",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-20"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-20",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_20.jpg"
    },
    {
     "name": "Brandenburgers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17382"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17382",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_21.jpg"
    },
    {
     "name": "Depleted Units",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17382383"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop_17382383",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_troop_22.jpg"
    },
    {
     "name": "Heavy Anti-Tank Guns",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-23"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-23",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_23.jpg"
    },
    {
     "name": "Tank Destroyers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-24"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-24",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_24.jpg"
    },
    {
     "name": "Screaming Meemies",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-25"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-25",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_25.jpg"
    },
    {
     "name": "Hobart's Funnies",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-26"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=troop-26",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_troop_26.jpg"
    }
   ]
  },
@@ -519,43 +640,53 @@
   "cards": [
    {
     "name": "Air Sortie",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_1.jpg"
    },
    {
     "name": "Airplanes On Ground/Aircraft Carriers",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_2.jpg"
    },
    {
     "name": "Airborne Airplanes",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_3.jpg"
    },
    {
     "name": "Air Check",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_4.jpg"
    },
    {
     "name": "Ground Interdiction",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_5",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_5.jpg"
    },
    {
     "name": "Ground Support",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_6",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_6.jpg"
    },
    {
     "name": "Kamikaze",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_7",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_7.jpg"
    },
    {
     "name": "Recon",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_8",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_8.jpg"
    },
    {
     "name": "Rescue",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_9"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_9",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_9.jpg"
    },
    {
     "name": "Strafing",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_10"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air_rule_10",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_air_rule_10.jpg"
    }
   ]
  },
@@ -565,35 +696,43 @@
   "cards": [
    {
     "name": "Curtiss P-40 Warhawk",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_1.jpg"
    },
    {
     "name": "Lockheed P-38 Lightning",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_2.jpg"
    },
    {
     "name": "Vought F4U Corsair",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_3.jpg"
    },
    {
     "name": "Supermarine Spitfire",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_4.jpg"
    },
    {
     "name": "Fieseler Fi 156 Storch",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_5",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_5.jpg"
    },
    {
     "name": "Messerschmitt Bf 109",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_6",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_6.jpg"
    },
    {
     "name": "Mitsubishi A6M Zero",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_7",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_7.jpg"
    },
    {
     "name": "Yakovlev Yak-1/7/9",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=airplane_8",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_airplane_8.jpg"
    }
   ]
  },
@@ -603,31 +742,38 @@
   "cards": [
    {
     "name": "French Resistance",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_nation_1.jpg"
    },
    {
     "name": "Red Army (RKKA)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_nation_2.jpg"
    },
    {
     "name": "Imperial Japanese Army",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_nation_3.jpg"
    },
    {
     "name": "US Marine Corps",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_nation_4.jpg"
    },
    {
     "name": "British Commonwealth Forces (BCF)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=british-commonwealth-forces-bcf"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=british-commonwealth-forces-bcf",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_nation_5.jpg"
    },
    {
     "name": "Italian Royal Army",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375377378379"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=action_19375377378379",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_nation_6.jpg"
    },
    {
     "name": "French Army",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation-7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=nation-7",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_nation_7.jpg"
    }
   ]
  },
@@ -637,95 +783,118 @@
   "cards": [
    {
     "name": "General Advance",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_1",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_1.jpg"
    },
    {
     "name": "Pincer Move",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_2",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_2.jpg"
    },
    {
     "name": "Recon In Force",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_3",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_3.jpg"
    },
    {
     "name": "Recon",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_4",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_4_left.jpg"
    },
    {
     "name": "Probe",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_5",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_5_left.jpg"
    },
    {
     "name": "Attack",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_6",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_6_left.jpg"
    },
    {
     "name": "Assault",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_7",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_7_left.jpg"
    },
    {
     "name": "Armor Assault",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_8",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_8_axis.jpg"
    },
    {
     "name": "Counter-Attack",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_9"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_9",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_9_axis.jpg"
    },
    {
     "name": "Direct From HQ",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_10"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_10",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_10_axis.jpg"
    },
    {
     "name": "Infantry Assault",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_11"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_11",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_11_axis.jpg"
    },
    {
     "name": "Move Out",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_12"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_12",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_12_axis.jpg"
    },
    {
     "name": "Ambush",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_13"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_13",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_13.jpg"
    },
    {
     "name": "Artillery Bombard",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_14"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_14",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_14.jpg"
    },
    {
     "name": "Barrage",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_15"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_15",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_15.jpg"
    },
    {
     "name": "Behind Enemy Lines",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_16"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_16",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_16.jpg"
    },
    {
     "name": "Close Assault",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_17"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_17",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_17.jpg"
    },
    {
     "name": "Dig-in",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_18"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_18",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_18.jpg"
    },
    {
     "name": "Firefight",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_19"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_19",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_19.jpg"
    },
    {
     "name": "Medics & Mechanics",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_20"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_20",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_20.jpg"
    },
    {
     "name": "Their Finest Hour",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_21"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_21",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_21.jpg"
    },
    {
     "name": "Air Power",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_22"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_22",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_22.jpg"
    },
    {
     "name": "Air Sortie",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_23"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=command_23",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_command_23.jpg"
    }
   ]
  },
@@ -735,35 +904,43 @@
   "cards": [
    {
     "name": "Special Weapon Assets Rules",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=special-weapon-assets-rules"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=special-weapon-assets-rules",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_swa_1.jpg"
    },
    {
     "name": "Anti-Tank Gun",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=anti-tank-gun"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=anti-tank-gun",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_swa_2.jpg"
    },
    {
     "name": "Mortar",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=anti-tank-gun380"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=anti-tank-gun380",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_swa_3.jpg"
    },
    {
     "name": "Special Weapon Assets Rules (Late War)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-4",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_swa_4.jpg"
    },
    {
     "name": "Anti-Tank Gun (Late War)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-5",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_swa_5.jpg"
    },
    {
     "name": "Mortar (Late War)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-6",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_swa_6.jpg"
    },
    {
     "name": "Machine Gun (Late War)",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-7",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_swa_7.jpg"
    },
    {
     "name": "Machine Gun",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=swa-8",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_swa_8.jpg"
    }
   ]
  },
@@ -773,71 +950,88 @@
   "cards": [
    {
     "name": "Rattenkrieg",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=rattenkrieg"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=rattenkrieg",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_1_axis.jpg"
    },
    {
     "name": "Reinforcements",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=reinforcements"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=reinforcements",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_2.jpg"
    },
    {
     "name": "House To House",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=house-to-house"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=house-to-house",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_3_axis.jpg"
    },
    {
     "name": "Heat Of Battle",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=heat-of-battle"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=heat-of-battle",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_4.jpg"
    },
    {
     "name": "Not A Step Back",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=not-a-step-back"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=not-a-step-back",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_5.jpg"
    },
    {
     "name": "Ambuscade",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=ambuscade"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=ambuscade",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_6.jpg"
    },
    {
     "name": "Pull Back",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=pull-back"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=pull-back",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_7.jpg"
    },
    {
     "name": "Out Of Ammo",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=out-of-ammo"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=out-of-ammo",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_8.jpg"
    },
    {
     "name": "Infiltrators",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=infiltrators"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=infiltrators",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_9.jpg"
    },
    {
     "name": "Sniper",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=sniper"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=sniper",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_10.jpg"
    },
    {
     "name": "Reposition",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=reposition"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=reposition",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_11.jpg"
    },
    {
     "name": "Fortify",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=fortify"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=fortify",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_12_axis.jpg"
    },
    {
     "name": "Spotter",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=spotter"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=spotter",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_13.jpg"
    },
    {
     "name": "Return to Duty",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=return-to-duty"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=return-to-duty",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_14.jpg"
    },
    {
     "name": "Armor Factory",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=armor-factory"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=armor-factory",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_15.jpg"
    },
    {
     "name": "Armor Forward",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=armor-forward"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=armor-forward",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_16.jpg"
    },
    {
     "name": "Air Bombardment",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air-bombardment"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=air-bombardment",
+    "imageUrl": "http://static.memoir44.com/lang/english/images/mm_compendium_urban_17.jpg"
    }
   ]
  },
@@ -847,59 +1041,73 @@
   "cards": [
    {
     "name": "Camouflage",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-1"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-1",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_1.jpg"
    },
    {
     "name": "Reinforcements",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-2"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-2",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_2.jpg"
    },
    {
     "name": "Frozen Ground",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-3"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-3",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_3.jpg"
    },
    {
     "name": "Heat of Battle",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-4"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-4",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_4.jpg"
    },
    {
     "name": "Out of Fuel",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-5"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-5",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_5.jpg"
    },
    {
     "name": "Ambuscade",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-6"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-6",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_6.jpg"
    },
    {
     "name": "Pull Back",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-7"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-7",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_7.jpg"
    },
    {
     "name": "Out of Ammo",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-8"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-8",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_8.jpg"
    },
    {
     "name": "Infiltrators",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-9"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-9",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_9.jpg"
    },
    {
     "name": "Street Fight",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-10"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-10",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_10.jpg"
    },
    {
     "name": "Reposition",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-11"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-11",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_11.jpg"
    },
    {
     "name": "Fortify",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-12"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-12",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_12.jpg"
    },
    {
     "name": "Spotter",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-13"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-13",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_13.jpg"
    },
    {
     "name": "Winter Forest",
-    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-14"
+    "url": "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=winter-14",
+    "imageUrl": "http://cdn0.daysofwonder.com/memoir44/en/img/mm_compendium_winter_14.jpg"
    }
   ]
  }

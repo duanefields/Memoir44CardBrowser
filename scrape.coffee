@@ -8,6 +8,13 @@ root = "http://www.daysofwonder.com/memoir44/en/content/cards_compendium/?id=car
 
 categories = []
 
+fetchImages = (card, callback) ->
+  console.warn "Fetching card #{card.name}..."
+  request card.url, (err, response, html) ->
+    $ = cheerio.load html
+    card.imageUrl = $('h2 + div img').attr('src')
+    callback err
+
 fetchCards = (category, callback) ->
   console.warn "Fetching #{category.name}..."
   request category.url, (err, response, html) ->
@@ -19,8 +26,8 @@ fetchCards = (category, callback) ->
           name: $(this).text()
           url: "http://www.daysofwonder.com#{$(this).attr('href')}"
         category.cards.push card
-        # todo, fetch card details to get image
-      callback()
+      async.each category.cards, fetchImages, (err) ->
+        callback(err)
     else
       console.log "ERROR2", err
       callback(err)
